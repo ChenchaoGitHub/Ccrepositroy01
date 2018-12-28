@@ -1,16 +1,15 @@
 12324345wdweddwed
 
-<<<<<<< HEAD
+
 ddddddddddddddddddd
 
 qqqqqqqqqqqqqqqqqq
 
 22222222222222222
-=======
+
 cccccccccccccccccccccccccccc
 
 oooooooooooooo
 
 dddddddddddddddd
 
->>>>>>> 6d49f45551271a7ef7e8986acb7998ca45afb837
